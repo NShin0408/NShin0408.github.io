@@ -1,6 +1,0 @@
-baseURL="https://nshin0408.github.io/"
-disablePathToLower=true
-languageCode="en-us"
-title="n-tech log"
-theme="hugo-PaperMod"
-publishDir="docs"
