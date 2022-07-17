@@ -1,0 +1,22 @@
+baseURL="https://nshin0408.github.io/"
+disablePathToLower=true
+languageCode="ja"
+title="n-tech log"
+theme="hugo-PaperMod"
+publishDir="docs"
+
+[params]
+  defaultTheme="light"
+  disableThemeToggle=false
+  ShowBreadCrumbs=true
+  ShowCodeCopyButtons=true
+  ShowToc=true
+  [homeInfoParams]
+    Title="About me"
+    Content="都内のWEBサービス会社に勤めるエンジニア"
+
+  [socialIcons]
+    name="github"
+    url="https://github.com/NShin0408"
+    name="Rss"
+    url="index.xml"
